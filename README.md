@@ -1,2 +1,0 @@
-# WellnessDashboard
-Personal Wellness Dashboard
